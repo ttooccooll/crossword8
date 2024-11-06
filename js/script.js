@@ -31,7 +31,7 @@
 				{
 					clue: "Storms, famine, and disease did this to the development of Plymouth Colony.",
 					answer: "impede",
-					position: 10,
+					position: 11,
 					orientation: "across",
 					startx: 5,
 					starty: 5
@@ -39,7 +39,7 @@
 				{
 					clue: "This vegetable is often times creamed for Thanksgiving.",
 					answer: "onion",
-					position: 12,
+					position: 13,
 					orientation: "across",
 					startx: 1,
 					starty: 6
@@ -47,7 +47,7 @@
 				{
 					clue: "These were the honored guests at the first Thanksgiving.",
 					answer: "wampanoag",
-					position: 15,
+					position: 16,
 					orientation: "across",
 					startx: 1,
 					starty: 7
@@ -55,7 +55,7 @@
 				{
 					clue: "Despite the many deaths in Plymouth Colony's first winter, the pilgrims remained steadfast in their belief in this.",
 					answer: "eternity",
-					position: 18,
+					position: 19,
 					orientation: "across",
 					startx: 1,
 					starty: 8
@@ -63,7 +63,7 @@
 				{
 					clue: "The pilgrims of Plymouth Colony fled religious persecution in the UK. Later, folks would flee religious persecution in the colony to this area.",
 					answer: "ri",
-					position: 19,
+					position: 20,
 					orientation: "across",
 					startx: 1,
 					starty: 9
@@ -71,7 +71,7 @@
 				{
 					clue: "Edward Winslow is responsible for arguably writing the most important _______ of the first Thanksgiving.",
 					answer: "account",
-					position: 20,
+					position: 21,
 					orientation: "across",
 					startx: 4,
 					starty: 9
@@ -79,7 +79,7 @@
 				{
 					clue: "One day, I will do this in person to the Macy's Thanksgiving Day parade.",
 					answer: "see",
-					position: 21,
+					position: 22,
 					orientation: "across",
 					startx: 4,
 					starty: 10
@@ -87,7 +87,7 @@
 				{
 					clue: "This creature is written in a native American dictionary as being called the 'white man's fly,' but there is little other evidence that they actually used this term.",
 					answer: "bee",
-					position: 22,
+					position: 23,
 					orientation: "across",
 					startx: 1,
 					starty: 11
@@ -95,7 +95,7 @@
 				{
 					clue: "This is a safer way to cook your turkey than the deep-frying trend.",
 					answer: "roast",
-					position: 23,
+					position: 24,
 					orientation: "across",
 					startx: 6,
 					starty: 11
@@ -156,10 +156,18 @@
 					startx: 10,
 					starty: 4
 				},
+                {
+					clue: "This factor has dramatically hurt our knowledge about what happened at the first Thanksgiving.",
+					answer: "time",
+					position: 10,
+					orientation: "down",
+					startx: 3,
+					starty: 5
+				},
 				{
 					clue: "Make sure to get one of these of your loved ones at Thanksgiving this year.",
 					answer: "photo",
-					position: 11,
+					position: 12,
 					orientation: "down",
 					startx: 7,
 					starty: 5
@@ -167,7 +175,7 @@
 				{
 					clue: "Squanto taught the pilgrims how to grow ______ crops.",
 					answer: "native",
-					position: 13,
+					position: 14,
 					orientation: "down",
 					startx: 2,
 					starty: 6
@@ -175,7 +183,7 @@
 				{
 					clue: "Many families' Thanksgivings are even more dramatic than some of these musical productions.",
 					answer: "opras",
-					position: 14,
+					position: 15,
 					orientation: "down",
 					startx: 4,
 					starty: 6
@@ -183,7 +191,7 @@
 				{
 					clue: "The individuals referenced in 14 down should probably just practice being this.",
 					answer: "nicer",
-					position: 16,
+					position: 17,
 					orientation: "down",
 					startx: 6,
 					starty: 7
@@ -191,7 +199,7 @@
 				{
 					clue: "The pilgrims may have qualified if this organization had been around back in the 17th century.",
 					answer: "ayuda",
-					position: 17,
+					position: 18,
 					orientation: "down",
 					startx: 8,
 					starty: 7
