@@ -53,7 +53,7 @@
 					starty: 7
 				},
 				{
-					clue: "Despite the many deaths in Plymouth Colony's first winter, the pilgrims remained steadfast in their belief in this.",
+					clue: "The pilgrims believed in a life after death that lasted for this long.",
 					answer: "eternity",
 					position: 19,
 					orientation: "across",
